@@ -1,31 +1,17 @@
 # Solidity
-To build smart contracts on Enterium blockchain we use solidity porgramming languahe
+To build smart contracts on Enterium blockchain we use solidity porgramming language
+- Smart Contract: It's a pragram which is written on bolckchain network.
 
 ## Ch-1: Variable & DataTypes
+    - Value Datatypes: boolean, uint, byte & string, enums, fixed point number
+    - Reference Datatypes: array, mapping, struct.
+## Ch-2: Array & Mapping
+## Ch-3: Condition & Loops
+    - Error Handeling: require(), assertive(condition), reverve()
+    ```require()
+    ```
+## Ch-4: Inhretence & oops
 
-### 1. Value DataTypes
-- boolean
-- uint
-- int 
-- bite & String
-- Enums
-- Fixed point number
-
-### 2. Reference DataTypes
-- Array
-- Struct
-- Mapping
-
->> State Variable, Lacal Variable, Global Variable
-
-## Ch-2: Functions
-
-## Error Handeling
-Three way to handle Error
- 
-1. require(condition, messege);
-2. assertive(condition);
-3. reverve(only pass err message);
 
 ## View
 - View keywords use to see state Variable. 
