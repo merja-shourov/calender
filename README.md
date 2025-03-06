@@ -1,5 +1,5 @@
 # Solidity
-- Solidity is a programming language which is used to write smart contract on blockchin network, ex: ethereum
+- Solidity is a programming language that is used to write smart contracts on blockchain networks, such as Ethereum.
 - Smart Contract: It's a pragram which is written on bolckchain network.
 
 ## Ch-1: Variable & DataTypes
